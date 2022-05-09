@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "cooldown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/techprimate/CoolDown",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9d8a95e2818c891c3d6288a244220b569defdbf5"
+      }
+    },
+    {
+      "identity" : "down",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnxnguyen/Down.git",
+      "state" : {
+        "revision" : "f34b166be1f1db4aa8f573067e901d72f2a6be57",
+        "version" : "0.11.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "d06df9adf50ed8cde5786d935836a5f445f780ba",
+        "version" : "6.3.1"
+      }
+    },
+    {
+      "identity" : "swiftdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/qeude/SwiftDown.git",
+      "state" : {
+        "revision" : "53bcb94de74fb4a48939e8b1e35f124f0db5ce70",
+        "version" : "0.2.2"
+      }
+    }
+  ],
+  "version" : 2
+}
